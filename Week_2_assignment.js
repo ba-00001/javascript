@@ -1,4 +1,17 @@
 //Section 1.2	Oct 23	Oct 29	JavaScript Loops and Arrays
+
+// 1. Have you ever used any AI tools?
+// Yes, I've used several AI tools, like ChatGPT, Grammarly, and DALL-E. I've used ChatGPT mainly to help clarify coding concepts, answer questions on complex topics, and get assistance with programming tasks. Grammarly has been helpful for improving my writing, especially in formal settings, and DALL-E has been fun to use for creating unique visuals for projects.
+
+// 2. What did you think about your interaction with AI?
+// My experience with AI has generally been positive. AI tools can provide quick, personalized responses and resources that help me understand concepts in a more interactive way. I like how they can act almost like a tutor, always ready to answer questions or provide guidance on a specific topic.
+
+// 3. What are ways you think AI can help you as you learn content throughout this class?
+// AI can be a valuable resource for reinforcing new programming concepts, providing examples, and troubleshooting issues. AI tools like ChatGPT can help me understand different approaches to solving a problem, while tools like Grammarly can help ensure my written communication is clear and concise when documenting my code or collaborating with others.
+
+// 4. What are ways that AI can cause frustration or negatively impact your learning?
+// Sometimes, AI responses can be too broad or overly complicated, which can lead to confusion instead of clarity. It can also be frustrating if an AI provides an answer that feels generic or doesn’t fully address a specific issue. Relying too much on AI could also lead to missing out on learning the fundamentals deeply, as it's easy to let the tool do the heavy lifting instead of fully processing the problem myself.
+
 //--------------- IMPORTANT!!! ---------------
 
 // Use the keyboard shortcut Alt + Z (for PC) or Option + Z (for Mac) to allow word wrap on this document.  Word wrap breaks the lines so you don't have to keep scrolling left and right to read.
