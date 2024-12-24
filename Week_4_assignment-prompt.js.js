@@ -501,3 +501,15 @@
 //  Q4: input: [2,-3,3,4,-2], output: 2
 
 // PUT YOUR CODE HERE
+
+
+// Mindset Assignment
+// Curiosity to Learn
+
+// The field of software development is constantly growing and changing—new programming languages, libraries, tools, and best practices are coming out all the time—and what is possible in technology is fueled by the curiosity and open-mindedness of programmers to learn and experiment with new things.
+
+// For this week’s mindset prompts we’re going to focus on developing a practice of learning as a way to grow and evolve your technical skills. Here’s a brief episode of Developer Tea that we think gets to the core of good learning habits.
+
+// In your own words, what does it mean to be curious about something?
+// What’s one thing that you were curious to learn more about recently (this doesn’t need to be coding-related)? How did you learn more about it?
+// What’s one best practice you’ve learned in your first few weeks at CTD that you don’t know “the why” behind? How can you find out “the why”?
