@@ -774,3 +774,31 @@ function strangeSums(arr) {
 // Test cases for strangeSums
 let q4TestArray = [2, -3, 3, 4, -2];
 console.log(`Q4: input: [${q4TestArray}], output:`, strangeSums(q4TestArray)); // Log result
+
+
+// Mindset Assignment: Curiosity to Learn
+
+// 1. In your own words, what does it mean to be curious about something?
+// To be curious about something means having a genuine desire to explore, understand, and question.
+// It’s about wanting to go beyond surface-level knowledge and diving deeper into how and why things work.
+// Curiosity drives us to seek answers, experiment, and remain open to discovering new perspectives, 
+// whether it’s about solving a problem or learning something entirely new.
+
+// 2. What’s one thing that you were curious to learn more about recently (this doesn’t need to be coding-related)? 
+// How did you learn more about it?
+// Recently, I became curious about sustainable living practices and how small daily habits could reduce environmental impact.
+// To learn more, I started by researching online, reading articles, and watching documentaries about eco-friendly 
+// alternatives and their benefits. I also joined local community discussions on sustainability and experimented by 
+// incorporating practices like composting and using reusable products into my routine. 
+// By actively trying these practices, I gained a deeper understanding of their impact and feasibility.
+
+// 3. What’s one best practice you’ve learned in your first few weeks at CTD that you don’t know “the why” behind? 
+// How can you find out “the why”?
+// One best practice I’ve learned is using higher-order functions like `map`, `filter`, and `reduce` instead of traditional loops in JavaScript.
+// While I understand how they work and their ability to make code cleaner and more expressive, I’m curious about the deeper “why”
+// —such as their performance implications and why they are considered more "functional programming"-oriented. 
+// To find out, I can:
+// - Research articles and documentation about JavaScript engine optimization and functional programming principles.
+// - Experiment by comparing the performance of higher-order functions versus traditional loops in various scenarios.
+// - Discuss with mentors or peers to gain insights into their experiences and reasoning behind adopting these practices.
+
